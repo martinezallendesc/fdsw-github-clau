@@ -50,3 +50,14 @@ background-color: blue;
 border-color: blue;
 
 }
+
+i {
+  color: blue;
+  background-color:aquamarine;
+  padding: 30px;
+  border-radius: 555px;
+}
+
+#Mis-trabajos {
+  font-family:'Courier New', Courier, monospace;
+}
